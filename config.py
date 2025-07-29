@@ -17,7 +17,7 @@ BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","purvibots")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "OxoMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "pujaMusicBot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Maya")
 # ---------------------------------------------------------
@@ -66,8 +66,8 @@ GIT_TOKEN = getenv(
 )
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url #
-API_KEY = getenv("API_KEY", 'NxGBNexGenBots1ee9b8') # youtube song api ke #
-# --------------------------------------------------------------------
+API_KEY = getenv("API_KEY", 'NxGBNexGenBotsb4f439') # youtube song api ke #
+# ------------------------------------------------
 # --------------------------------------------------------------------
 # --------------------------------------------------------------------
 
