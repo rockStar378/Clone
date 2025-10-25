@@ -68,9 +68,9 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
          [
-             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/ll_istkhar_baby_lll"),
+             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/vip_ankit_121"),
              InlineKeyboardButton(text="๏ ᴧᴅᴅ ϻє ๏", url=f"https://t.me/{app.username}?startgroup=true"),
-             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+PaEtaAu9DI9mYzc9")
+             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/shree_update")
          ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
@@ -89,9 +89,9 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
          ],
         [
-             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/ll_istkhar_baby_lll"),
+             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/vip_ankit_121"),
              InlineKeyboardButton(text="๏ ᴧᴅᴅ ϻє ๏", url=f"https://t.me/{app.username}?startgroup=true"),
-             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+PaEtaAu9DI9mYzc9")
+             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/shree_update")
          ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
@@ -242,10 +242,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/ZeoXpro"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/shree_update"
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀᴛ", url=f"https://t.me/ProBotGc"
+                text="ᴄʜᴀᴛ", url=f"https://t.me/shree_update"
             ),
         ],
 
